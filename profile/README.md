@@ -1,6 +1,6 @@
-# TNY Robotics
+[![banner](./banner.png)](https://tny-robotics.com)
 
-**Empowering curiosity. Unlocking capability.**
+---
 
 Welcome to **TNY Robotics**! We are dedicated to making advanced robotics and AI accessible to everyone through open-source technology, comprehensive documentation, and innovative products.
 
